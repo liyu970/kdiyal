@@ -1,5 +1,5 @@
 {
-  "name": "cdcxxx",
+  "name": "kdiyal",
   "description": "DaoChen's v2",
   "keywords": [
     ""
@@ -7,7 +7,7 @@
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
