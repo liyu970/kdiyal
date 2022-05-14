@@ -183,7 +183,7 @@ addEventListener(
 
 ```
   - name: "yourName"
-    type: vmess
+    type: vless
     server: yourName.workers.dev
     port: 443
     uuid: yourUuid
