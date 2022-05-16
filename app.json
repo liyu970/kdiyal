@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/liyu970/kdiyal",
+  "repository": "https://github.com/liyu970/kdiyal",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
